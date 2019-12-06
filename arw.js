@@ -25,18 +25,16 @@ module.exports = {
     },
 
     sendData: async function (title, link, description) {
-        let transaction = await arweave.createTransaction({ data: title }, jwk);
+        let transaction = await arweave.createTransaction({ data: description }, jwk);
 
         // Tags
         transaction.addTag('title', title);
         transaction.addTag('link', link);
-        transaction.addTag('description', description);
-        transaction.addTag('App-Name', permaclimatechange);
+        transaction.addTag('App-Name', 'permaclimatechange');
 
         // Sign
         await arweave.transactions.sign(transaction, jwk);
 
         await arweave.transactions.post(transaction);
     }
-
 }
