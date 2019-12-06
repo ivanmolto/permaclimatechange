@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/ivanmolto/permaclimatechange/issues"
   },
-  "homepage": "https://github.com/ivanmolto/permaclimatechange#readme"
+  "homepage": "https://github.com/ivanmolto/permaclimatechange#readme",
+  "dependencies": {
+    "arweave": "^1.6.0",
+    "cron": "^1.7.2",
+    "rss-parser": "^3.7.3"
+  }
 }
