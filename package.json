@@ -1,0 +1,25 @@
+{
+  "name": "permaclimatechange",
+  "version": "1.0.0",
+  "description": "Store RSS feeds on climate change in the blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanmolto/permaclimatechange.git"
+  },
+  "keywords": [
+    "arweave",
+    "blockchain",
+    "rss",
+    "bot"
+  ],
+  "author": "Ivan Molto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanmolto/permaclimatechange/issues"
+  },
+  "homepage": "https://github.com/ivanmolto/permaclimatechange#readme"
+}
