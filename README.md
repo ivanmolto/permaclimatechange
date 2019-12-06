@@ -16,7 +16,7 @@ For this bot I have used an interesting rss feed topic which includes Climate ch
 ## Link to the wallet address that has been archiving the data stream
 The data is archived using this wallet address: wv_3q4_df0jXCVUJjCMYuYLSUcjIbrk9ggp_Ovix8yI
 
-## Installation
+## Installation
 After cloning this repo, you'll need to install all the dependencies with the following command. 
 
 `npm install` 
