@@ -37,7 +37,7 @@ You can browse the data feeds by performing a query manually using ArQL, as ArQL
 **Hint**: See tag 'App-Name' as 'permaclimatechange'
 
 ## License
-The PermaClimateChange source code is open source, and may be redistributed under the terms specified in the [LICENSE](https://github.com/ivanmolto/permaclimatechange/LICENSE "LICENSE") file.
+The PermaClimateChange source code is open source, and may be redistributed under the terms specified in the [LICENSE](https://github.com/ivanmolto/permaclimatechange/blob/master/LICENSE "LICENSE") file.
 
 All RSS feeds, trademarks and registered trademarks are the properties of their respective owners.
 It's not accepted any liability for feeds used with this bot.
