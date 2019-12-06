@@ -18,19 +18,20 @@ The data is archived using this wallet address: wv_3q4_df0jXCVUJjCMYuYLSUcjIbrk9
 
 ## Installation
 After cloning this repo, you'll need to install all the dependencies with the following command. 
-'npm install' 
+
+`npm install` 
 
 Then please, place you Arweave wallet as 'wallet.json' in the root directory.
 
 ## Usage
 Run the bot with the following command:
-'node index.js' 
+`node index.js`
 
 ## Other Useful Command
-If you want to stop Perma Climate Change bot, please enter 'CTRL + C' in the command line/terminal.
+If you want to stop Perma Climate Change bot, please enter `CTRL + C` in the command line/terminal.
 
 ## More Information
-Everyday this bot will store fresh content at 10:00 PM UK time (GMT) as long as the wallet have enough funds.
+Everyday this bot will store fresh content at 10:00 PM UK `time (GMT) as long as the wallet have enough funds.
 Please note that there's a fee for storing data on Arweave's blockchain.
 
 You can browse the data feeds by performing a query manually using ArQL, as ArQL allows you to search for transactions by tags or by wallet address. 
